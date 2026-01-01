@@ -5,18 +5,15 @@
 <h1 align="center">Hi 👋, I'm Muthu Hariramar</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Java & React Enthusiast | UI/UX Designer</h3>
 
----
 
 ## 🔭 About Me
 
-- 💻 Currently pursuing **B.Tech in Information Technology**
 - 🌱 Exploring **AI, Java, Full-Stack Development & Software Engineering**
 - 👨‍💻 Passionate about building intelligent and scalable software
-- 🏆 Young Kalam Award Winner
 - 🤝 I’m open to collaborate on **Web | UI/UX | Java | Full-Stack Projects**
-- 📍 Based in **Virudhunagar, Tamil Nadu, India**
+- 📍 Based in **Thirumanagalam, Tamil Nadu, India**
 
----
+
 
 ## 🧠 Skills
 
@@ -32,7 +29,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+
 <!--
 ## 📈 GitHub Stats
 
@@ -41,8 +38,8 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthuhariramar-dev&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
--->
+
+
 
 ## 💼 Experience
 
@@ -75,19 +72,15 @@
 - Responsive portfolio
 - Showcases projects & career
 
----
 
-## 🏆 Achievements
+-->
 
-- 🥇 UI/UX Design – First Prize  
-- 🏅 Dr. Kalam Award  
-- 🌍 World Youth Federation – 2024
 
----
+
 
 ## 📫 Contact Me
 
-Feel free to reach out 👇
+
 
 <p align="center">
   <a href="mailto:muthuhariramar@gmail.com">
@@ -107,7 +100,4 @@ Feel free to reach out 👇
 
 > “I design software and experiences, not just interfaces.”
 
----
-
-⭐ *If you like my work, feel free to ⭐ star the repositories!*
 
