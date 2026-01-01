@@ -2,7 +2,7 @@
   Thanks for checking out my profile! 😊
 -->
 
-<h1 align="center">Hi 👋, I'm Muthu Hariramar</h1>
+<h1 align="center">Hi, I'm Muthu Hariramar</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Java & React Enthusiast | UI/UX Designer</h3>
 
 
