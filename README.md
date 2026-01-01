@@ -6,18 +6,17 @@
 <h3 align="center">Aspiring Full-Stack Developer | Java & React Enthusiast | UI/UX Designer</h3>
 
 
-## 🔭 About Me
+#### About Me
 
-- 🌱 Exploring **AI, Java, Full-Stack Development & Software Engineering**
-- 👨‍💻 Passionate about building intelligent and scalable software
-- 🤝 I’m open to collaborate on **Web | UI/UX | Java | Full-Stack Projects**
-- 📍 Based in **Thirumanagalam, Tamil Nadu, India**
+- Exploring **AI, Java, Full-Stack Development & Software Engineering**
+- Passionate about building intelligent and scalable software
+- I’m open to collaborate on **Web | UI/UX | Java | Full-Stack Projects**
+- Based in **Thirumanagalam, Tamil Nadu, India**
 
 
 
-## 🧠 Skills
 
-### 🛠 Languages & Tools  
+#### Languages & Tools  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -73,12 +72,12 @@
 - Showcases projects & career
 
 
--->
 
 
 
 
-## 📫 Contact Me
+
+#### Contact Me
 
 
 
@@ -94,10 +93,7 @@
   </a>
 </p>
 
----
+-->
 
-## ✨ Fun Fact
-
-> “I design software and experiences, not just interfaces.”
 
 
