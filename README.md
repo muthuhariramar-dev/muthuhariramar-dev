@@ -11,7 +11,7 @@
 - Exploring **AI, Java, Full-Stack Development & Software Engineering**
 - Passionate about building intelligent and scalable software
 - I’m open to collaborate on **Web | UI/UX | Java | Full-Stack Projects**
-- Based in **Thirumanagalam, Tamil Nadu, India**
+- Based in **Tirumangalam, Tamil Nadu, India**
 
 
 
